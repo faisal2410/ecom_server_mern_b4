@@ -9,7 +9,7 @@
 
 // ✅Data Deduplication: In certain scenarios, hashing can be used to identify duplicate data efficiently. By comparing hash values, you can quickly identify whether two pieces of data are identical, which is useful in data deduplication processes.
 
-//✅ Cryptography: Hash functions are fundamental in modern cryptography. They are used to create digital signatures, secure communication channels (like HTTPS), and various encryption algorithms.
+//✅ hCryptograpy: Hash functions are fundamental in modern cryptography. They are used to create digital signatures, secure communication channels (like HTTPS), and various encryption algorithms.
 
 // Now, let's discuss "salt" in the context of hashing:
 
